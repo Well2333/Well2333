@@ -2,8 +2,6 @@
 
 I'm Well404! You can call me 404 as well.
 
-📰My blog: https://blog.well404.top or https://well2333.github.io
-
 📫 **Contact me**
 
 * [![Email](https://img.shields.io/badge/Email-well_404@outlook.com-1?style=social&logoColor=fff)](mailto:well_404@outlook.com)
