@@ -6,7 +6,7 @@ I'm Well404! You can call me 404 as well.
 
 * [![Email](https://img.shields.io/badge/Email-well_404@outlook.com-1?style=social&logoColor=fff)](mailto:well_404@outlook.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=well2333)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=well2333)](https://github.com/stats-organization/github-stats-extended)
 
 
 <!--
